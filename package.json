@@ -1,0 +1,10 @@
+{
+  "name": "hocuspocus-railway",
+  "version": "4.7.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@hocuspocus/server": "4.7.1",
+    "yjs": "13.6.33"
+  }
+}
