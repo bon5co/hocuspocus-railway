@@ -1,5 +1,9 @@
 # hocuspocus-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/hocuspocus-or-just-updated-yjs-collabora?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Hocuspocus template](https://railway.com/deploy/hocuspocus-or-just-updated-yjs-collabora?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Hocuspocus (Yjs realtime collaboration backend) packaged for Railway.
 
 - Wraps `@hocuspocus/server` 4.7.1 with token auth, SQLite persistence and a health endpoint.
